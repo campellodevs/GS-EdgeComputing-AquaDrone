@@ -46,3 +46,5 @@ Este projeto oferece uma solução simples e eficaz para monitoramento ambiental
 
 Isso é útil para entender melhor o ambiente natural e como as mudanças climáticas podem estar afetando ecossistemas específicos. Por exemplo, variações extremas de temperatura e umidade podem afetar o comportamento e a distribuição de animais e plantas.
 Esse tipo de monitoramento ambiental fornece dados valiosos para pesquisadores e cientistas que estudam ecologia, conservação da natureza e mudanças climáticas. Os dados coletados podem ser usados para entender padrões de longo prazo e realizar estudos de monitoramento de longo prazo em áreas naturais.
+
+Autores: Lucca Campello - RM:58455, Victorio Bastelli - RM:554723, Guilherme Moreira - RM:557290;
